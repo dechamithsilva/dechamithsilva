@@ -21,7 +21,8 @@
 - 🔭 Currently building **ChainGuard**, a blockchain-based digital evidence chain-of-custody system.
 - 🌱 Currently deepening my skills in **ethical hacking, digital forensics and secure design**.
 - 🧩 Practising on **TryHackMe** and **HackTheBox**, and publishing my notes in [CTF-Writeups](https://github.com/dechamithsilva/CTF-Writeups).
-- 💬 Ask me about **Python, Linux, forensic workflows, chain of custody and blockchain**.
+- 🎯 Preparing for the **ISC2 Certified in Cybersecurity (CC)** exam, and a CTF participant (Operation Heist).
+- 💬 Ask me about **Node.js, Solidity, Kali Linux, chain of custody and blockchain evidence**.
 - 📫 Reach me at: [dechamithsilva@gmail.com](mailto:dechamithsilva@gmail.com)
 - ⚡ Fun fact: I like making evidence tamper-evident, so nobody has to just "trust me".
 
@@ -31,31 +32,23 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,html,css,bash&perline=6" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=py,js,html,css,nodejs,express,mongodb,solidity&perline=8" alt="Languages and frameworks" />
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,solidity&perline=6" alt="Frameworks" />
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&perline=6" alt="Databases" />
-<br/>
-<img src="https://skillicons.dev/icons?i=linux,kali,git,github,docker,vscode&perline=6" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=linux,kali,git,github,postman,vscode&perline=6" alt="Tools" />
 
 </div>
 
-> Remove any icon you have not really used. Full list: https://skillicons.dev
-
 ---
 
-## 🔐 Security & Forensics Toolkit
+## 🔐 Security & Forensics
 
 | Area | Tools / Topics |
 | --- | --- |
-| Digital forensics | Autopsy, FTK Imager, Volatility, disk and memory analysis |
-| Network security | Wireshark, Nmap, packet analysis |
-| Ethical hacking | Kali Linux, Burp Suite, Metasploit |
-| Practice | TryHackMe, HackTheBox, CTF challenges |
-| Fundamentals | CIA triad, risk management, incident response, ISC2 CC study |
-
-> Keep only the rows and tools you have actually used.
+| Practice | TryHackMe, HackTheBox (Meow, Fawn, Dancing, Redeemer, GamingServer), CTF events |
+| Environment | Kali Linux (VirtualBox), Linux fundamentals |
+| Blockchain | Solidity, Hardhat, Ganache, Ethers.js |
+| Forensics | Autopsy (in progress via ChainGuard) |
+| Fundamentals | CIA triad, risk management, ISC2 CC (exam prep in progress) |
 
 ---
 
@@ -68,7 +61,9 @@ Blockchain-based digital evidence chain-of-custody system. Every handover of dig
 - Evidence hashing for integrity verification
 - Role-based access and full audit trail
 
-**Stack:** `add your stack here`
+- 📱 QR code generation and webcam scanning for evidence IDs
+
+**Stack:** Node.js, Express, MongoDB, Solidity, Hardhat, Ganache, Ethers.js
 
 > The ChainGuard repo is currently private, so it is described here rather than linked. Make it public (or link a public demo) when you are ready.
 
