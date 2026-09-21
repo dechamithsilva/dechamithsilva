@@ -2,7 +2,7 @@
 
 <img src="./banner.svg" alt="Chamith De Silva - Cybersecurity Enthusiast" width="100%" />
 
-**Learning by doing. Breaking things to understand them, and building systems that keep evidence trustworthy. **
+**Learning by doing. Breaking things to understand them, and building systems that keep evidence trustworthy.**
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chamithdesilva)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dechamithsilva@gmail.com)
