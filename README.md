@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi!%20I'm%20Chamith%20De%20Silva&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Cybersecurity%20Enthusiast%20%7C%20Ethical%20Hacking%20%26%20Digital%20Forensics&descSize=16&descAlignY=72" alt="Banner" />
+<img src="./banner.svg" alt="Chamith De Silva - Cybersecurity Enthusiast" width="100%" />
 
 **Learning by doing. Breaking things to understand them, and building systems that keep evidence trustworthy. 🇱🇰**
 
@@ -60,12 +60,9 @@ Blockchain-based digital evidence chain-of-custody system. Every handover of dig
 - Tamper-evident custody log
 - Evidence hashing for integrity verification
 - Role-based access and full audit trail
-
-- 📱 QR code generation and webcam scanning for evidence IDs
+- QR code generation and webcam scanning for evidence IDs
 
 **Stack:** Node.js, Express, MongoDB, Solidity, Hardhat, Ganache, Ethers.js
-
-> The ChainGuard repo is currently private, so it is described here rather than linked. Make it public (or link a public demo) when you are ready.
 
 ### 🛡️ [CTF-Writeups](https://github.com/dechamithsilva/CTF-Writeups)
 CTF writeups and notes from HackTheBox and TryHackMe, documenting my cybersecurity journey.
@@ -76,8 +73,6 @@ CTF writeups and notes from HackTheBox and TryHackMe, documenting my cybersecuri
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dechamithsilva&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dechamithsilva&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com/?user=dechamithsilva&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
@@ -89,7 +84,11 @@ CTF writeups and notes from HackTheBox and TryHackMe, documenting my cybersecuri
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dechamithsilva/dechamithsilva/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dechamithsilva/dechamithsilva/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dechamithsilva/dechamithsilva/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/dechamithsilva/dechamithsilva/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
