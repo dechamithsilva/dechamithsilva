@@ -10,21 +10,19 @@
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chamith.de.silva)
 [![Facebook](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/chamith.silva.39)
 
-![Profile Views](https://komarev.com/ghpvc/?username=dechamithsilva&label=Profile%20Views&color=2c5364&style=flat)
-
 </div>
 
 ---
 
 ## 🕵️ About Me
 
-- 🔭 Currently building **ChainGuard**, a blockchain-based digital evidence chain-of-custody system.
-- 🌱 Currently deepening my skills in **ethical hacking, digital forensics and secure design**.
-- 🧩 Practising on **TryHackMe** and **HackTheBox**, and publishing my notes in [CTF-Writeups](https://github.com/dechamithsilva/CTF-Writeups).
-- 🎯 Preparing for the **ISC2 Certified in Cybersecurity (CC)** exam, and a CTF participant (Operation Heist).
-- 💬 Ask me about **Node.js, Solidity, Kali Linux, chain of custody and blockchain evidence**.
+- 🎓 Final-year **BSc (Hons) Cyber Security & Digital Forensics** student, Kingston University (via ESOFT Metro Campus), based in **Sri Lanka**.
+- 🔭 Building **ChainGuard**, a blockchain-based digital evidence chain-of-custody system (my final-year project).
+- 🧩 Practising on **HackTheBox** and **TryHackMe**, and publishing my notes in [CTF-Writeups](https://github.com/dechamithsilva/CTF-Writeups).
+- 🎯 Preparing for the **ISC2 Certified in Cybersecurity (CC)** exam. CTF participant (Operation Heist).
+- 💬 Ask me about **chain of custody, evidence hashing, Solidity and Node.js**.
+- 💼 **Open to cybersecurity and digital forensics internships.**
 - 📫 Reach me at: [dechamithsilva@gmail.com](mailto:dechamithsilva@gmail.com)
-- ⚡ Fun fact: I like making evidence tamper-evident, so nobody has to just "trust me".
 
 ---
 
@@ -44,10 +42,10 @@
 
 | Area | Tools / Topics |
 | --- | --- |
-| Practice | TryHackMe, HackTheBox (Meow, Fawn, Dancing, Redeemer, GamingServer), CTF events |
+| Practice | HackTheBox Starting Point (Tier 0 completed), TryHackMe, CTF events |
 | Environment | Kali Linux (VirtualBox), Linux fundamentals |
 | Blockchain | Solidity, Hardhat, Ganache, Ethers.js |
-| Forensics | Autopsy (in progress via ChainGuard) |
+| Forensics | Evidence hashing and integrity verification, Autopsy (learning) |
 | Fundamentals | CIA triad, risk management, ISC2 CC (exam prep in progress) |
 
 ---
@@ -64,33 +62,10 @@ Blockchain-based digital evidence chain-of-custody system. Every handover of dig
 
 **Stack:** Node.js, Express, MongoDB, Solidity, Hardhat, Ganache, Ethers.js
 
+> 🔒 The repository is private while the project is in development. A public showcase and demo are coming soon.
+
 ### 🛡️ [CTF-Writeups](https://github.com/dechamithsilva/CTF-Writeups)
-CTF writeups and notes from HackTheBox and TryHackMe, documenting my cybersecurity journey.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-
-<img src="https://streak-stats.demolab.com/?user=dechamithsilva&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🐍 GitHub Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dechamithsilva/dechamithsilva/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dechamithsilva/dechamithsilva/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/dechamithsilva/dechamithsilva/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
+Step-by-step writeups and notes from HackTheBox and TryHackMe machines, documenting my cybersecurity journey.
 
 ---
 
